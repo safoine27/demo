@@ -5,18 +5,21 @@
             "name": "safoine",
             "height": 179,
             "weight": 71.6
+            "activity": 1,
         },
         {
             "id": 2,
             "name": "Naceur",
             "height": 181,
-            "weight": 90
+            "weight": 90,
+            "activity": 2,
         },
         {
             "id": 3,
             "name": "nidhal",
             "height": 185,
-            "weight": 70
+            "weight": 70,
+            "activity": 3,
         }
     ],
     "history": [
@@ -26,17 +29,20 @@
                 {
                     "date": 1599840895896,
                     "height": 185,
-                    "weight": 70
+                    "weight": 70,
+                    "activity": 3,
                 },
                 {
                     "date": 1599840896896,
                     "height": 185,
-                    "weight": 77
+                    "weight": 77,
+                    "activity": 3,
                 },
                 {
                     "date": 1599840897896,
                     "height": 184,
-                    "weight": 80
+                    "weight": 80,
+                    "activity": 3,
                 }
             ]
         },
@@ -46,19 +52,39 @@
                 {
                     "date": 1599840895896,
                     "height": 185,
-                    "weight": 70
+                    "weight": 70,
+                    "activity": 2,
                 },
                 {
                     "date": 1599840896896,
                     "height": 185,
-                    "weight": 77
+                    "weight": 77,
+                    "activity": 2,
                 },
                 {
                     "date": 1599840897896,
                     "height": 184,
-                    "weight": 80
+                    "weight": 80,
+                    "activity": 3,
                 }
             ]
         }
+    ],
+    "activities": [
+        {
+        "id" : 1,
+        "name": "Activity 1",
+        "impact": 1.0,    
+        },
+        {
+        "id" : 2,
+        "name": "Activity 2",
+        "impact": 1.5,    
+        },
+        {
+        "id" : 3,
+        "name": "Activity 3",
+        "impact": 1.4,    
+        },
     ]
 }
