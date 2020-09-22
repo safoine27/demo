@@ -86,5 +86,42 @@
       "name": "Activity 3",
       "impact": 1.4
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Banana",
+      "impactPiece": 1.0,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    },
+    {
+      "id": 2,
+      "name": "Yaourt",
+      "impactPiece": 1.5,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    },
+    {
+      "id": 3,
+      "name": "Pomme de terre",
+      "impactPiece": 1.5,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    },
+    {
+      "id": 4,
+      "name": "Pomme",
+      "impactPiece": 1.5,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    },
+    {
+      "id": 5,
+      "name": "Tomates",
+      "impactP": 1.4,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    }
   ]
 }
