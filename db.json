@@ -123,5 +123,42 @@
       "impactGram": 1.0,
       "image": "http://placekitten.com/250/300"
     }
+  ],
+  "storeProducts": [
+    {
+      "id": 1,
+      "name": "Pain de mie",
+      "impactPiece": 1.0,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    },
+    {
+      "id": 2,
+      "name": "Pain céréales",
+      "impactPiece": 1.5,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    },
+    {
+      "id": 3,
+      "name": "Riz Bio",
+      "impactPiece": 1.5,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    },
+    {
+      "id": 4,
+      "name": "Pasta Bio",
+      "impactPiece": 1.5,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    },
+    {
+      "id": 5,
+      "name": "Lait bio",
+      "impactP": 1.4,
+      "impactGram": 1.0,
+      "image": "http://placekitten.com/250/300"
+    }
   ]
 }
