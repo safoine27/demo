@@ -6,23 +6,26 @@
       "height": 179,
       "weight": 71.6,
       "activity": 1,
-      "sex": "male"
+      "sex": "male",
+      "age": 24
     },
     {
       "id": 2,
       "name": "Naceur",
-      "height": 181,
-      "weight": 90,
+      "height": 189,
+      "weight": 125,
       "activity": 2,
-      "sex": "male"
+      "sex": "male",
+      "age": 26
     },
     {
       "id": 3,
       "name": "nidhal",
-      "height": 185,
-      "weight": 70,
+      "height": 190,
+      "weight": 69,
       "activity": 3,
-      "sex": "female"
+      "sex": "female",
+      "age": 26
     }
   ],
   "history": [
