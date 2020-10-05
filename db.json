@@ -77,36 +77,136 @@
     {
       "id": 1,
       "name": "Banana",
-      "impactPiece": 1.0,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     },
     {
       "id": 2,
       "name": "Yaourt",
-      "impactPiece": 1.5,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     },
     {
       "id": 3,
       "name": "Pomme de terre",
-      "impactPiece": 1.5,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     },
     {
       "id": 4,
       "name": "Pomme",
-      "impactPiece": 1.5,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     },
     {
       "id": 5,
       "name": "Tomates",
-      "impactP": 1.4,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     }
   ],
@@ -114,36 +214,136 @@
     {
       "id": 1,
       "name": "Pain de mie",
-      "impactPiece": 1.0,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     },
     {
       "id": 2,
       "name": "Pain céréales",
-      "impactPiece": 1.5,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     },
     {
       "id": 3,
       "name": "Riz Bio",
-      "impactPiece": 1.5,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     },
     {
       "id": 4,
       "name": "Pasta Bio",
-      "impactPiece": 1.5,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     },
     {
       "id": 5,
       "name": "Lait bio",
-      "impactP": 1.4,
-      "impactGram": 1.0,
+      "energie": {
+        "calories": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "glucides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "fibres": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "proteines": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        },
+        "lipides": {
+          "impactPiece": 1.0,
+          "impactGram": 1.0
+        }
+      },
       "image": "https://loremflickr.com/250/300/apple"
     }
   ]
