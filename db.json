@@ -5,21 +5,24 @@
       "name": "safoine",
       "height": 179,
       "weight": 71.6,
-      "activity": 1
+      "activity": 1,
+      "sex": "male"
     },
     {
       "id": 2,
       "name": "Naceur",
       "height": 181,
       "weight": 90,
-      "activity": 2
+      "activity": 2,
+      "sex": "male"
     },
     {
       "id": 3,
       "name": "nidhal",
       "height": 185,
       "weight": 70,
-      "activity": 3
+      "activity": 3,
+      "sex": "female"
     }
   ],
   "history": [
@@ -68,23 +71,6 @@
           "activity": 3
         }
       ]
-    }
-  ],
-  "activities": [
-    {
-      "id": 1,
-      "name": "Activity 1",
-      "impact": 1.0
-    },
-    {
-      "id": 2,
-      "name": "Activity 2",
-      "impact": 1.5
-    },
-    {
-      "id": 3,
-      "name": "Activity 3",
-      "impact": 1.4
     }
   ],
   "products": [
